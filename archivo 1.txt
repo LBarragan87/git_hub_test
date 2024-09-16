@@ -1,1 +1,2 @@
-color dorado
+color rojo
+
